@@ -9,7 +9,7 @@ The "You Only Look Once" or YOLO, family of models are a series of end-to-end de
 
 The approach involves a single deep convolutional neural network that splits the input into a grid of cells and each cell directly predicts a bounding box and object classification. The result is a large number of candidate bounding boxes that are consolidated into a final prediction by a post-processing step.
 
-We will use ![keras-yolo3: Training and Detecting Objects with YOLO3 Reposetory](https://github.com/experiencor/keras-yolo3) scripts to convert the pre-trained weights into Keras format, use the pre-trained model to make predictions, and provided the code required to distill interpret the predicted bounding boxes.
+We will use [keras-yolo3: Training and Detecting Objects with YOLO3 Reposetory](https://github.com/experiencor/keras-yolo3) scripts to convert the pre-trained weights into Keras format, use the pre-trained model to make predictions, and provided the code required to distill interpret the predicted bounding boxes.
 
 In this project we will make object detection using two methods:
 

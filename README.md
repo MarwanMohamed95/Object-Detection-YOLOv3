@@ -19,7 +19,7 @@ In this project we will make object detection using two methods:
 
 ## YOLOv3 model architecture
 
-![model](https://github.com/MarwanMohamed95/YOLO-V3/blob/main/yolov3_network.png?raw=true)
+![model](https://github.com/MarwanMohamed95/YOLO-V3/blob/main/yolov3_model.jpeg?raw=true)
 
 ## Some Results of the model 
 
